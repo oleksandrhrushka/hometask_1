@@ -8,4 +8,6 @@ func main() {
 	fmt.Println("- Here I've switched to a new branch STARS")
 	fmt.Println("- Added one more branch")
 	fmt.Println("- Changes")
+	fmt.Println("- This one goes to branch FEATHERS")
+	fmt.Println("- Victim of changes")
 }
