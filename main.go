@@ -7,4 +7,5 @@ func main() {
 	fmt.Println("- This is the file amendment after I've switched to a new MASTER branch.")
 	fmt.Println("- Here I've switched to a new branch STARS")
 	fmt.Println("- Added one more branch")
+	fmt.Println("- Changes")
 }
